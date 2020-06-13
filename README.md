@@ -1,6 +1,6 @@
 # blockchain-basic
 This is a basic blockchain app in Python for fun. Not really scalable or anything but I had fun, yo!
-P.S This app doesn't have an interface, feel free to create one yourself, I'll do the whole interface thing with the second project on Blockchain whenever I do one, maybe next weekend.
+P.S This app doesn't have a working interface but there is a basic Flask skeleton, feel free to create one yourself, I'll do the whole interface thing with the second project on Blockchain whenever I do one, maybe next weekend.
 
 Will move on to a more complex project once I'm done with this probably with Ether.js
 
