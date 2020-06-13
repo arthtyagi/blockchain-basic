@@ -44,4 +44,8 @@ All of the magic lies in the way this data is stored and added to the blockchain
 ## Moving on to understanding how this would all tie in together :
 
 
+- What is nonce tho?
+
+Nonce is a variable that can change until we get the desired variable i.e. the hash that satisfies our constraint.
+The actual HashCash algorithm used with Bitcoin is way more complex than the one we are using, the nonce in our technique satisfying the constant serves as proof that some computation has been performed.
 
