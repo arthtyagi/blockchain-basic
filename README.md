@@ -9,14 +9,23 @@ I read [this guide](https://developer.ibm.com/technologies/blockchain/tutorials/
 #### Step Zero : Learn more about blockchain [here](https://bitcoin.org/bitcoin.pdf) and have a good understanding of Python and REST APIs.
 
 * 1.  Store transactions into blocks
+
 * 2.  Add digital fingerprints to the blocks
+
 * 3.  Chain the blocks
+
 * 4.  Implement a proof of work algorithm
+
 * 5.  Add blocks to the chain
+
 * 6.  Create interfaces
+
 * 7.  Establish consensus and decentralization
+
 * 8.  Build the application
+
 * 9.  Run the application
+
 
 - Alright so well in a nutshell, how would you define a blockchain? 
 
